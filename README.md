@@ -1,3 +1,5 @@
+![Dataset Cover](dataset-cover.jpg)
+
 # Laptop Price Prediction with Advanced EDA
 
 ## Overview
