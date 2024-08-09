@@ -10,9 +10,7 @@ This repository contains a comprehensive project focused on predicting laptop pr
 
 - `data/` - Contains the dataset used for the project.
 - `notebooks/` - Jupyter notebooks for EDA, feature engineering, and model building.
-- `scripts/` - Python scripts for data preprocessing, model training, and evaluation.
-- `results/` - Outputs and results from model evaluation.
-- `README.md` - This README file.
+
 
 ## Dataset
 
